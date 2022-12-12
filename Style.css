@@ -1,0 +1,172 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    margin-top: 10px
+}
+.navbar{
+    background-color: #9B9B9B ;
+
+}
+.navbar-brand{
+    font-size: 30px !important;
+}
+.logo{
+    width: 90px;
+    height: 60px;
+}
+.nav-link{
+    color:white      !important;
+
+}
+.nav-link:hover{
+    color:#F6934E       !important;
+}
+ul{
+    font-size: 20px;
+}
+.dropdown-menu{
+    background-color:#D0CDCB  !important ;
+}
+
+.performance{
+    margin-top: 30px;
+}
+.performance{
+    animation: fadeInAnimation ease 4s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+.award{
+    padding-top: 70px;
+}
+.award span{
+    color: #E16E1D  ;
+}
+.award p{
+    padding-top: 20px;
+}
+.thermal{
+    animation: fadeInAnimation ease 4s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+.prs{
+    width: 400px;
+    height: 400px;
+}
+.tcl{
+    width: 380px;
+    height: 290px;
+    padding-top: 40px;
+}
+.ptc{
+    padding-top: 30px;
+
+}
+.ptc p{
+    padding-top: 20px;
+}
+.thermal span{
+   color: #E16E1D; 
+}
+.rtx{
+    width: 400px;
+    height:250x;
+    margin-top: 80px;
+}
+.gpu span{
+    color: #E16E1D;
+}
+.gpu{
+    animation: fadeInAnimation ease 4s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+.pb{
+    margin-top: 60px;
+}
+.pb span{
+    color: #E16E1D;
+}
+.pb_pc{
+    margin-top: 20px;
+}
+.lp{
+    width: 200px;
+    height: 200px;
+}
+.mp{
+    width: 200px;
+    height: 200px;
+}
+.hp{
+    width: 200px;
+    height: 200px;
+}
+span{
+    color: #E16E1D;
+}
+.pb{
+    animation: fadeInAnimation ease 4s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+.pb_pc{
+    animation: fadeInAnimation ease 4s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+.footer{
+    background-color: #9B9B9B;
+    margin-top: 20px;
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.footer ul{
+    color: white;
+}
+h4{
+    color: #E16E1D;
+}
